@@ -1,7 +1,4 @@
-<div align="center">
-  <h2>Olá! Eu sou Maria Eduarda 👋</h2>
-  <p>Apaixonada por desafios tecnológicos, sou uma estudante de Engenharia de Software dedicada a transformar conhecimento em soluções inovadoras. Atualmente, estou trilhando meu caminho na área de dados, contribuindo para o desenvolvimento de sistemas robustos e eficientes.</p>
-  
+<div align="center"> 
   <h3>📊 Linguagens Mais Utilizadas</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedfarias&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas">
   
