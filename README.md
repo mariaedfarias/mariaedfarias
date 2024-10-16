@@ -1,4 +1,6 @@
-<div align="center"> 
+<div align="center">
+  <h2>Olá! Eu sou Maria Eduarda 👋</h2>
+  
   <h3>📊 Linguagens Mais Utilizadas</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaedfarias&layout=compact&theme=radical" alt="Linguagens Mais Utilizadas">
   
